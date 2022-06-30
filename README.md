@@ -1,5 +1,5 @@
 # Links #
-* [Website](https://ceeoinnovations.github.io/hackathon-2021/)
+* [Website](http://www.ceeoinnovations.org/projectpihub/)
 * [Data (Google Drive)](https://drive.google.com/drive/folders/1QYH_SIuhGPQyQdSwdye5zqEzu_FLeaNi?usp=sharing)
 
 # How to build a Product Website Using Google Spreadsheets #
